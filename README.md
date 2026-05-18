@@ -1,2 +1,3 @@
 # NIT.Jamshedpur
-Check one two Three
+This is my first GitHub Repository
+Auther - Ashit Ekka
